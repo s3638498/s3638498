@@ -8,4 +8,4 @@ I help develop elegantly professional cyber security startup**🌐 Web applicati
 * 🌱   Currently learning Docker.
 * 📚   Reading more about startup stories and how the computer security works.
 * 💻   With 4 years' computer science and technology education and 1 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
+* ⛵   Encouraging people participating in coding challenges.
