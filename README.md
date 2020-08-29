@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/s3638498/s3638498/profile.gif)
+![](https://github.com/s3638498/s3638498/blob/master/profile.gif)
 
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
