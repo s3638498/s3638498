@@ -3,7 +3,7 @@
 I help develop elegantly professional cyber security startup**🌐 Web application** for a living.🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Front End Engineer at Cydarm Technologies.
+* 💼   Full Stack Engineer at Cydarm Technologies.
 * 🎓   Bachelor of Computer Science in RMIT, Australia.
 * 🌱   Currently learning Docker.
 * 📚   Reading more about startup stories and how the computer security works.
