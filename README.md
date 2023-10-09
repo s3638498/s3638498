@@ -3,9 +3,9 @@
 I help develop elegantly professional cyber security startup**🌐 Web application** for a living.🌈    
 
 * 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Full Stack Engineer at Cydarm Technologies.
+* 💼   Previously Full Stack Engineer at Cydarm Technologies.
 * 🎓   Bachelor of Computer Science in RMIT, Australia.
-* 🌱   Currently learning Docker.
+* 🌱   Currently using Golang, React and postgres.
 * 📚   Reading more about startup stories and how the computer security works.
-* 💻   With 4 years' computer science and technology education and 1 years' development working experience.
+* 💻   With 4 years' computer science and technology education and 3 and half years' development working experience.
 * ⛵   Encouraging people participating in coding challenges.
