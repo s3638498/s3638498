@@ -7,5 +7,5 @@ I help develop elegantly professional cyber security startup**🌐 Web applicati
 * 🎓   Bachelor of Computer Science in RMIT, Australia.
 * 🌱   Currently using Golang, React and postgres.
 * 📚   Reading more about startup stories and how the computer security works.
-* 💻   With 4 years' computer science and technology education and 3 and half years' development working experience.
+* 💻   With 4 years computer science and technology education and 4 years development working experience.
 * ⛵   Encouraging people participating in coding challenges.
